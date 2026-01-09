@@ -43,4 +43,5 @@ public class Unit6Test {
         assertEquals(4, Unit6.countOccurrences(new int[]{0, 0, 0, 0}, 0));
     }
 
+
 }
